@@ -190,3 +190,52 @@ if ((param1a = param1b)) {
 } else {
   console.log(false);
 }
+
+// let param1a = ;
+// let param1b = ;
+// let param2a = ;
+// let param2b = ;
+
+// if ((param1a = param1b) || (param2a = param2b)) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+// let param1a = ;
+// let param1b = ;
+// let param2a = ;
+// let param2b = ;
+
+// if ((param1a = param1b) || (param2a = param2b)) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+// let param1a = ;
+// let param1b = ;
+// let param2a = ;
+// let param2b = ;
+
+// if ((param1a = param1b) || (param2a = param2b)) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+// let param1a = ;
+// let param1b = ;
+// let param2a = ;
+// let param2b = ;
+
+// if ((param1a = param1b) || (param2a = param2b)) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+//!!!!!!!!!!!! having trouble with the PAIR/COMPARE section of our block 13
+
+// Not sure if i put my if conditions in wrong but prettier saves it with two parenthesis
+// so i figured that maybe i could have two different conditions and use or "||" to get the expected output
+
+// looking forward to mondays class and your feedback
